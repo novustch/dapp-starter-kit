@@ -34,8 +34,8 @@ export const GetStartedSection: FC<GetStartedSectionProps> = (props) => {
           </CardHeader>
           <CardContent>
             <CodeBlock
-              code={`git clone https://github.com/zhyd1997/turbo-dapp-starter-kit.git
-cd turbo-dapp-starter-kit
+              code={`git clone https://github.com/zhyd1997/dapp-starter-kit.git
+cd dapp-starter-kit
 pnpm install`}
             />
           </CardContent>
@@ -54,7 +54,7 @@ pnpm install`}
         </Card>
         <div className="flex justify-center">
           <Button asChild size="lg" className="w-full sm:w-auto">
-            <Link href="https://git.new/turbo-dapp-starter-kit">
+            <Link href="https://git.new/dapp-starter-kit">
               <Github className="mr-2 h-4 w-4" />
               View on GitHub
             </Link>

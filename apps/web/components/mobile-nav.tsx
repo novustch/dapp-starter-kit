@@ -48,7 +48,7 @@ export function MobileNav() {
               Get Started
             </MobileLink>
             <MobileLink
-              href="https://git.new/turbo-dapp-starter-kit"
+              href="https://git.new/dapp-starter-kit"
               onOpenChange={setOpen}
               className="flex items-center"
             >
