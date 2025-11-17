@@ -1,7 +1,5 @@
 # Turbo DApp Starter Kit
 
-![demo](https://ik.imagekit.io/1winv85cn8g/dapp-starter-kit/demo@2x_GuIsszikC.png)
-
 Turbo DApp Starter Kit is a professionally curated full‑stack template for building decentralized applications. It combines modern frontend tooling with opinionated Web3 integrations and a contract development workflow to help teams bootstrap production‑grade DApps quickly.
 
 ## Key Features
